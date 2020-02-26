@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75711552824",
+    "firebase_url": "https://carassitanceagent-uvpgnx.firebaseio.com",
+    "project_id": "carassitanceagent-uvpgnx",
+    "storage_bucket": "carassitanceagent-uvpgnx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75711552824:android:416ceb4cad404f8a5975cd",
+        "android_client_info": {
+          "package_name": "com.gm.carassistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75711552824-14ia8a9oh1j1v3jdp28dr398uqsa4p8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhzCR9ZeUaZMFXUVGEZEnHvcLvxPFrnb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75711552824-14ia8a9oh1j1v3jdp28dr398uqsa4p8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

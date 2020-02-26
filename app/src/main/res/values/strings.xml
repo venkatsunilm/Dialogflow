@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vehicle Assistance</string>
+    <string name="oil_title">OIL INFO</string>
+    <string name="oil_detail">Oil level Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="trunk_title">TRUNK INFO</string>
+    <string name="trunk_detail">Trunk Info Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="hazard_light_title">HAZARD LIGHT INFO</string>
+    <string name="hazard_light_detail">Hazard Light Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
+
